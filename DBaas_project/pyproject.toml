@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "nisha-env"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django = "^3.2"
+djangorestframework = "^3.14"
+django-cors-headers = "^4.0"
+openstacksdk = "^1.0"
+python-crontab = "^2.7"
+django-prometheus = "^2.2"
+python-dotenv = "^1.0"
+environs = "^10.0"
+django-auth-ldap = "^4.0"
+python-ldap = "^3.4"
+kubernetes = "^26.1"
+channels = "^4.0"
+daphne = "^4.1.2"
+asgiref = "^3.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,12 @@
+Django
+djangorestframework
+django-cors-headers
+openstacksdk
+python-crontab
+django-prometheus
+python-dotenv
+environs
+django-auth-ldap
+python-ldap
+Kubernetes
+channels

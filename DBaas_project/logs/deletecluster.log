@@ -1,0 +1,166 @@
+2024-07-05 10:49:37,467 level=INFO user=nisha clusterName=ni-cld-testing msg=ni-cld-testing deleted 
+2024-07-08 07:12:31,440 level=INFO user=nisha clusterName=ni-cloud-new msg=ni-cloud-new deleted 
+2024-07-09 07:13:05,162 level=INFO user=nisha clusterName=ni-cluster-v9 msg=ni-cluster-v9 deleted 
+2024-07-09 07:16:19,225 level=INFO user=nisha clusterName=ni-k8s-cluster msg=ni-k8s-cluster deleted 
+2024-07-09 07:24:53,697 level=INFO user=nisha clusterName=k8s-new-209 msg=k8s-new-209 deleted 
+2024-07-19 09:55:37,622 level=INFO user=mrankitvish clusterName=ankitd16pg msg=ankitd16pg deleted 
+2024-07-19 10:48:00,212 level=INFO user=ankitd clusterName=barman-test msg=barman-test deleted 
+2024-07-19 10:49:03,637 level=INFO user=ankitd clusterName=ankuu-16 msg=ankuu-16 deleted 
+2024-07-21 10:34:29,015 level=INFO user=ankitd clusterName=addb msg=addb deleted 
+2024-07-21 11:37:32,275 level=INFO user=ankitd clusterName=addb msg=addb deleted 
+2024-07-21 11:38:09,149 level=INFO user=ankitd clusterName=ankud msg=ankud deleted 
+2024-07-21 11:38:44,709 level=INFO user=ankitd clusterName=anku-db msg=anku-db deleted 
+2024-07-24 06:43:30,110 level=INFO user=ankitd clusterName=ankitd-demo msg=ankitd-demo deleted 
+2024-07-24 06:59:00,712 level=INFO user=ankitd clusterName=add msg=add deleted 
+2024-07-24 07:01:00,702 level=INFO user=ankitd clusterName=ad msg=ad deleted 
+2024-07-24 07:34:11,282 level=INFO user=ankitd clusterName=add msg=add deleted 
+2024-07-24 10:55:16,899 level=INFO user=ankitd clusterName=ankuu msg=ankuu deleted 
+2024-07-24 10:56:30,272 level=INFO user=ankitd clusterName=dwi msg=dwi deleted 
+2024-08-17 07:43:04,015 level=INFO user=nisha clusterName=ni-k8s-creation msg=ni-k8s-creation deleted 
+2024-08-17 09:03:25,940 level=INFO user=nisha clusterName=ni-k8s-creation msg=ni-k8s-creation deleted 
+2024-08-17 09:06:33,020 level=INFO user=nisha clusterName=ni-k8s-bitblast-test msg=ni-k8s-bitblast-test deleted 
+2024-08-17 09:28:59,122 level=INFO user=nisha clusterName=k8s-linux msg=k8s-linux deleted 
+2024-08-17 09:38:23,250 level=INFO user=nisha clusterName=ni-key50-k8s msg=ni-key50-k8s deleted 
+2024-08-17 09:49:31,973 level=INFO user=nisha clusterName=ni-k8s-90-key msg=ni-k8s-90-key deleted 
+2024-08-17 12:14:51,619 level=INFO user=nisha clusterName=ni-k8s-50-cluster msg=ni-k8s-50-cluster deleted 
+2024-08-17 12:15:25,883 level=INFO user=nisha clusterName=ni-k8s-90-cluster msg=ni-k8s-90-cluster deleted 
+2024-08-20 06:33:12,571 level=INFO user=nisha clusterName=ni-cluster-k8s-edb msg=ni-cluster-k8s-edb deleted 
+2024-08-20 06:33:55,499 level=INFO user=nisha clusterName=ni-cluster-k8s-bitblast msg=ni-cluster-k8s-bitblast deleted 
+2024-08-21 07:54:54,947 level=INFO user=nisha clusterName=ni-k8s-90867 msg=ni-k8s-90867 deleted 
+2024-08-21 10:27:20,163 level=INFO user=nisha clusterName=ni-cluster-90 msg=ni-cluster-90 deleted 
+2024-08-21 10:53:56,273 level=INFO user=nisha clusterName=preeti-ni-k8s-cluster msg=preeti-ni-k8s-cluster deleted 
+2024-09-02 07:29:31,476 level=INFO user=nisha clusterName=ni-cld-30 msg=ni-cld-30 deleted 
+2024-09-02 10:12:35,282 level=INFO user=nisha clusterName=ni-cld-test msg=ni-cld-test deleted 
+2024-09-02 10:13:55,959 level=INFO user=nisha clusterName=ni-today-k8s-02 msg=ni-today-k8s-02 deleted 
+2024-09-02 10:58:37,795 level=INFO user=nisha clusterName=ni-k8s-c2 msg=ni-k8s-c2 deleted 
+2024-09-02 11:07:35,753 level=INFO user=nisha clusterName=ni-k8s-c3 msg=ni-k8s-c3 deleted 
+2024-09-02 11:11:57,250 level=INFO user=nisha clusterName=ni-k8s-c4 msg=ni-k8s-c4 deleted 
+2024-09-02 11:49:39,454 level=INFO user=nisha clusterName=ni-k8s-c7 msg=ni-k8s-c7 deleted 
+2024-09-03 04:51:45,949 level=INFO user=nisha clusterName=ni-cld-c1 msg=ni-cld-c1 deleted 
+2024-09-03 05:13:07,437 level=INFO user=nisha clusterName=ni-cld-345 msg=ni-cld-345 deleted 
+2024-09-03 05:13:49,058 level=ERROR Error during cluster deletion process: Cannot assign "18": "Cluster_History.userID" must be a "User" instance. 
+2024-09-03 05:28:28,480 level=INFO user=nisha clusterName=ni-k8s-a1 msg=ni-k8s-a1 deleted 
+2024-09-03 05:28:44,981 level=ERROR Error during cluster deletion process: Cannot assign "18": "Cluster_History.userID" must be a "User" instance. 
+2024-09-03 05:34:39,811 level=INFO user=nisha clusterName=ni-k8s-a2 msg=ni-k8s-a2 deleted 
+2024-09-04 09:22:56,652 level=INFO user=nisha clusterName=ni-k8s-testing msg=ni-k8s-testing deleted 
+2024-09-04 09:49:55,715 level=INFO user=nisha clusterName=ni-artifacts1-k8s msg=ni-artifacts1-k8s deleted 
+2024-09-04 09:50:47,876 level=INFO user=nisha clusterName=ni-artifacts2-k8s msg=ni-artifacts2-k8s deleted 
+2024-09-04 10:10:17,354 level=INFO user=nisha clusterName=ni-k8s-test-90 msg=ni-k8s-test-90 deleted 
+2024-09-04 10:15:20,970 level=INFO user=nisha clusterName=ni-k8s-1 msg=ni-k8s-1 deleted 
+2024-09-04 10:16:09,213 level=INFO user=nisha clusterName=ni-k8s-2 msg=ni-k8s-2 deleted 
+2024-09-05 04:48:53,080 level=INFO user=nisha clusterName=ni-cluster-k8s-edb msg=ni-cluster-k8s-edb deleted 
+2024-09-05 04:50:38,051 level=INFO user=nisha clusterName=ni-k8s-12 msg=ni-k8s-12 deleted 
+2024-09-05 06:56:08,404 level=INFO user=nisha clusterName=ni-k8s-new-test msg=ni-k8s-new-test deleted 
+2024-09-05 06:56:45,009 level=INFO user=nisha clusterName=ni-k8s-double-test msg=ni-k8s-double-test deleted 
+2024-09-05 07:01:47,182 level=INFO user=nisha clusterName=ni-k8s-new-iu msg=ni-k8s-new-iu deleted 
+2024-09-05 07:06:23,797 level=INFO user=nisha clusterName=ni-test-9888 msg=ni-test-9888 deleted 
+2024-09-05 07:16:45,854 level=INFO user=nisha clusterName=ni-testing-db-k8s msg=ni-testing-db-k8s deleted 
+2024-09-05 07:17:36,023 level=INFO user=nisha clusterName=ni-artifact-test2 msg=ni-artifact-test2 deleted 
+2024-09-05 07:23:57,198 level=INFO user=nisha clusterName=ni-cloudstack-cluster-test msg=ni-cloudstack-cluster-test deleted 
+2024-09-21 12:06:27,746 level=INFO user=nisha clusterName=ni-cld-bitblast-pg msg=ni-cld-bitblast-pg deleted 
+2024-09-21 12:40:31,484 level=INFO user=nisha clusterName=ni-ha-cld-test msg=ni-ha-cld-test deleted 
+2024-10-04 07:17:37,782 level=INFO user=nisha clusterName=ni-11-cld msg=ni-11-cld deleted 
+2024-10-04 07:18:11,290 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-04 07:25:28,573 level=INFO user=nisha clusterName=ni-22-cld msg=ni-22-cld deleted 
+2024-10-04 07:26:02,491 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-04 08:21:35,131 level=INFO user=nisha clusterName=ni-cld-55 msg=ni-cld-55 deleted 
+2024-10-04 08:22:10,899 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-05 04:50:02,752 level=INFO user=nisha clusterName=ni-cld-05oct msg=ni-cld-05oct deleted 
+2024-10-05 04:50:04,633 level=ERROR Error during cluster deletion process: 0 
+2024-10-05 05:16:12,299 level=INFO user=nisha clusterName=ni-cld-test-05 msg=ni-cld-test-05 deleted 
+2024-10-05 05:16:48,250 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-05 07:38:29,176 level=INFO user=nisha clusterName=ni-cld-new-90 msg=ni-cld-new-90 deleted 
+2024-10-05 07:39:05,621 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-07 06:11:53,164 level=INFO user=nisha clusterName=ni-cls msg=ni-cls deleted 
+2024-10-07 06:12:29,831 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-07 06:39:09,013 level=INFO user=nisha clusterName=ni-cld msg=ni-cld deleted 
+2024-10-07 06:39:44,455 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-08 09:56:55,088 level=INFO user=nisha clusterName=ni-cld-new09 msg=ni-cld-new09 deleted 
+2024-10-08 09:57:32,260 level=ERROR Error during cluster deletion process: name 'pipeline_id' is not defined 
+2024-10-08 10:19:40,813 level=INFO user=nisha clusterName=ni-cld-test-0988 msg=ni-cld-test-0988 deleted 
+2024-10-08 10:31:38,140 level=INFO user=nisha clusterName=ni-cld msg=ni-cld deleted 
+2024-10-08 11:19:33,406 level=INFO user=nisha clusterName=ni-cld msg=ni-cld deleted 
+2024-10-14 06:58:41,679 level=INFO user=nisha clusterName=ni-do-not-delete-cld msg=ni-do-not-delete-cld deleted 
+2024-10-14 07:10:16,621 level=INFO user=nisha clusterName=ni-cld-day msg=ni-cld-day deleted 
+2024-10-14 07:47:11,483 level=INFO user=nisha clusterName=ni-pg-test-09 msg=ni-pg-test-09 deleted 
+2024-10-14 12:05:43,393 level=INFO user=nisha clusterName=ni-test-90-pg4 msg=ni-test-90-pg4 deleted 
+2024-10-14 12:24:55,939 level=INFO user=nisha clusterName=ni-cld-pg-new-test-db msg=ni-cld-pg-new-test-db deleted 
+2024-10-14 12:41:40,440 level=INFO user=nisha clusterName=ni-cld-do-not-test msg=ni-cld-do-not-test deleted 
+2024-10-15 04:43:56,949 level=INFO user=nisha clusterName=ni-db-new-90-testing msg=ni-db-new-90-testing deleted 
+2024-10-15 05:25:41,939 level=INFO user=nisha clusterName=ni-15oct-test-pg msg=ni-15oct-test-pg deleted 
+2024-10-15 05:36:49,448 level=INFO user=nisha clusterName=ni-cld-15oct-new-pg msg=ni-cld-15oct-new-pg deleted 
+2024-10-15 05:52:25,146 level=INFO user=nisha clusterName=ni-cluster-15oct msg=ni-cluster-15oct deleted 
+2024-10-15 06:08:48,331 level=INFO user=nisha clusterName=ni-db-cld-15oct msg=ni-db-cld-15oct deleted 
+2024-10-15 06:09:31,490 level=ERROR Error during cluster deletion process: name 'user_email' is not defined 
+2024-10-15 06:20:22,368 level=INFO user=nisha clusterName=ni-pg-test-vm msg=ni-pg-test-vm deleted 
+2024-10-15 06:20:57,848 level=ERROR Error during cluster deletion process: name 'user_email' is not defined 
+2024-10-15 06:35:19,798 level=INFO user=nisha clusterName=ni-test-db2-pg msg=ni-test-db2-pg deleted 
+2024-10-15 06:46:12,267 level=INFO user=nisha clusterName=ni-cld-new-15oct msg=ni-cld-new-15oct deleted 
+2024-10-15 09:34:50,364 level=INFO user=nisha clusterName=ni-db-nisha-cld msg=ni-db-nisha-cld deleted 
+2024-10-15 09:49:18,376 level=INFO user=nisha clusterName=ni-new-db msg=ni-new-db deleted 
+2024-10-15 10:40:44,807 level=INFO user=nisha clusterName=ni-db-no-pg-test msg=ni-db-no-pg-test deleted 
+2024-10-15 10:55:21,819 level=INFO user=nisha clusterName=ni-db-test msg=ni-db-test deleted 
+2024-10-17 04:55:11,058 level=INFO user=nisha clusterName=ni-cld-new-1 msg=ni-cld-new-1 deleted 
+2024-10-17 05:08:07,144 level=INFO user=nisha clusterName=ni-db-cld-new-1pg msg=ni-db-cld-new-1pg deleted 
+2024-10-17 05:18:27,121 level=INFO user=nisha clusterName=ni-new-cld-pg-1 msg=ni-new-cld-pg-1 deleted 
+2024-10-17 05:52:17,086 level=INFO user=nisha clusterName=ni-ha-pg-test msg=ni-ha-pg-test deleted 
+2024-10-17 06:07:10,196 level=INFO user=nisha clusterName=ni-db-pgtest msg=ni-db-pgtest deleted 
+2024-10-17 07:19:04,142 level=INFO user=nisha clusterName=ni-ha-db-1 msg=ni-ha-db-1 deleted 
+2024-10-17 07:38:04,969 level=INFO user=nisha clusterName=ni-new-ha-db msg=ni-new-ha-db deleted 
+2024-10-17 07:57:02,846 level=INFO user=nisha clusterName=ni-ha-db-1-pg-test msg=ni-ha-db-1-pg-test deleted 
+2024-10-18 04:59:51,237 level=INFO user=nisha clusterName=ni-db-ha-1 msg=ni-db-ha-1 deleted 
+2024-10-18 07:34:49,195 level=INFO user=nisha clusterName=ni-pg-1-test msg=ni-pg-1-test deleted 
+2024-10-18 07:56:52,732 level=INFO user=nisha clusterName=ni-cld-new msg=ni-cld-new deleted 
+2024-10-18 07:57:33,664 level=ERROR Error during cluster deletion process: name 'pg_db_name' is not defined 
+2024-10-18 09:57:48,277 level=INFO user=nisha clusterName=ni-cld-ha-test msg=ni-cld-ha-test deleted 
+2024-10-18 09:58:39,557 level=ERROR Error during cluster deletion process: name 'pg_db_name' is not defined 
+2024-10-18 10:16:36,660 level=INFO user=nisha clusterName=ni-standalone-test-cld msg=ni-standalone-test-cld deleted 
+2024-10-18 10:17:17,124 level=ERROR Error during cluster deletion process: name 'pg_db_name' is not defined 
+2024-10-18 10:26:43,281 level=INFO user=nisha clusterName=ni-db-single msg=ni-db-single deleted 
+2024-10-19 11:59:09,280 level=INFO user=nisha clusterName=ni-ha-test-only msg=ni-ha-test-only deleted 
+2024-10-22 05:14:36,186 level=INFO user=nisha clusterName=ni-standalone-23oct msg=ni-standalone-23oct deleted 
+2024-10-22 05:50:24,451 level=INFO user=nisha clusterName=ni-do-not-delete-ha msg=ni-do-not-delete-ha deleted 
+2024-10-24 09:42:31,983 level=INFO user=nisha clusterName=ni-ha-24oct msg=ni-ha-24oct deleted 
+2024-10-24 10:08:31,733 level=INFO user=nisha clusterName=ni-multiple-db msg=ni-multiple-db deleted 
+2024-10-24 12:04:19,389 level=INFO user=nisha clusterName=ni-cld-standalone msg=ni-cld-standalone deleted 
+2024-10-25 05:50:37,076 level=INFO user=nisha clusterName=ni-single-cld-log msg=ni-single-cld-log deleted 
+2024-10-25 06:18:43,431 level=INFO user=nisha clusterName=ni-ha-test msg=ni-ha-test deleted 
+2024-10-25 06:30:32,473 level=INFO user=nisha clusterName=ni-ha-testing msg=ni-ha-testing deleted 
+2024-10-25 06:30:52,614 level=INFO user=nisha clusterName=ni-test-single msg=ni-test-single deleted 
+2024-10-25 10:06:19,055 level=INFO user=nisha clusterName=ni-no-pg1 msg=ni-no-pg1 deleted 
+2024-10-25 10:16:14,585 level=INFO user=nisha clusterName=ni-yes-pg1 msg=ni-yes-pg1 deleted 
+2024-10-25 10:26:33,909 level=INFO user=nisha clusterName=ni-yes-pg msg=ni-yes-pg deleted 
+2024-10-25 10:35:52,628 level=INFO user=nisha clusterName=ni-ha-yes-pg msg=ni-ha-yes-pg deleted 
+2024-10-26 05:33:43,739 level=INFO user=ashish clusterName=asdemo msg=asdemo deleted 
+2024-10-26 06:16:46,656 level=INFO user=ashish clusterName=asdemoha msg=asdemoha deleted 
+2024-10-28 12:57:41,136 level=INFO user=ashish clusterName=assshish msg=assshish deleted 
+2024-10-28 12:58:47,276 level=INFO user=ashish clusterName=ashish122 msg=ashish122 deleted 
+2024-10-29 05:15:46,072 level=INFO user=ashish clusterName=haashish msg=haashish deleted 
+2024-10-29 07:45:21,863 level=INFO user=ashish clusterName=gemoha msg=gemoha deleted 
+2024-10-29 10:13:06,886 level=INFO user=nisha clusterName=ni-ha-db-2 msg=ni-ha-db-2 deleted 
+2024-10-29 10:28:56,741 level=INFO user=nisha clusterName=ni-ha-db-3 msg=ni-ha-db-3 deleted 
+2024-10-29 10:48:35,041 level=INFO user=nisha clusterName=ni-ha-db-4 msg=ni-ha-db-4 deleted 
+2024-10-29 12:02:43,275 level=INFO user=nisha clusterName=ni-ha-db-5 msg=ni-ha-db-5 deleted 
+2024-10-29 12:26:26,426 level=INFO user=nisha clusterName=ni-ha-db-6 msg=ni-ha-db-6 deleted 
+2024-10-29 15:27:05,146 level=INFO user=ashish clusterName=cld-stk msg=cld-stk deleted 
+2024-10-30 07:28:54,920 level=INFO user=nisha clusterName=ni-time-test-ha msg=ni-time-test-ha deleted 
+2024-10-30 07:56:15,654 level=INFO user=nisha clusterName=ni-db-standalone msg=ni-db-standalone deleted 
+2024-10-30 07:56:43,220 level=INFO user=nisha clusterName=ha-db-1 msg=ha-db-1 deleted 
+2024-11-05 06:45:38,804 level=INFO user=nisha clusterName=ni-new-4-standalone msg=ni-new-4-standalone deleted 
+2024-11-05 07:22:01,345 level=INFO user=nisha clusterName=ni-ha-db msg=ni-ha-db deleted 
+2024-11-05 07:23:20,947 level=INFO user=nisha clusterName=ni-new-4-standalone msg=ni-new-4-standalone deleted 
+2024-11-05 07:23:36,755 level=INFO user=nisha clusterName=ni-k8s msg=ni-k8s deleted 
+2024-11-05 07:25:45,062 level=INFO user=nisha clusterName=ni-k8s msg=ni-k8s deleted 
+2024-11-05 07:27:59,670 level=INFO user=nisha clusterName=ni-k8s msg=ni-k8s deleted 
+2024-11-05 07:29:09,164 level=INFO user=nisha clusterName=ni-ha-db-multiple msg=ni-ha-db-multiple deleted 
+2024-11-05 09:58:54,202 level=INFO user=nisha clusterName=ni-k8s msg=ni-k8s deleted 
+2024-11-05 10:00:30,057 level=INFO user=nisha clusterName=ni-ha-k8s-db msg=ni-ha-k8s-db deleted 
+2024-11-05 10:02:15,611 level=INFO user=nisha clusterName=ni-ha-k8s-db msg=ni-ha-k8s-db deleted 
+2024-11-05 10:03:56,001 level=INFO user=nisha clusterName=ni-k8s msg=ni-k8s deleted 
+2024-11-05 10:09:42,632 level=INFO user=nisha clusterName=ni-k8s-new msg=ni-k8s-new deleted 
+2024-11-05 11:55:33,088 level=INFO user=nisha clusterName=ni-db msg=ni-db deleted 
+2024-11-05 11:56:17,096 level=ERROR Error during cluster deletion process: Command '['/home/ubuntu/stable-code/bitblast-application/DBaas_project/myenv/bin/python3', '/home/ubuntu/stable-code/bitblast-application/DBaas_project/myenv/lib/python3.8/site-packages/pgadmin4/setup.py', 'remove-server', 'ni-db', '--user', 'nisha@gmail.com']' returned non-zero exit status 1. 
+2024-11-07 05:27:48,415 level=INFO user=nisha clusterName=ni-new0-9 msg=ni-new0-9 deleted 
+2024-11-07 05:30:34,651 level=INFO user=nisha clusterName=ni-new099 msg=ni-new099 deleted 
+2024-11-07 05:30:50,316 level=INFO user=nisha clusterName=ni-ndhjegfh msg=ni-ndhjegfh deleted 
+2024-11-07 10:57:20,903 level=INFO user=nisha clusterName=ni-new-value-3 msg=ni-new-value-3 deleted 
